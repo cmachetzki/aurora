@@ -21,6 +21,8 @@
 				"gcc",
 				"git-credential-libsecret",
 				"glow",
+				"gvfs-fuse",
+				"gvfs-smb",
 				"gum",
 				"hplip",
 				"kcm-fcitx5",
