@@ -1,4 +1,4 @@
-# Aurora
+# Aurora with SMB
 
 >This README is under construction temporarily as we cleanup the repository after splitting away from [Bluefin](https://github.com/ublue-os/bluefin).
 
