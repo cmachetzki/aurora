@@ -5,6 +5,7 @@
 				"adcli",
 				"aurora-cli-logos",
 				"aurora-fastfetch",
+				"aurora-schemas",
 				"bash-color-prompt",
 				"bcache-tools",
 				"bootc",
@@ -18,7 +19,6 @@
 				"fcitx5-mozc",
 				"fcitx5-sayura",
 				"fcitx5-unikey",
-				"firacode-nerd-fonts",
 				"firewall-config",
 				"fish",
 				"foo2zjs",
@@ -50,7 +50,6 @@
 				"mesa-libGLU",
 				"nerdfontssymbolsonly-nerd-fonts",
 				"oddjob-mkhomedir",
-				"opendyslexic-fonts",
 				"openrazer-daemon",
 				"plasma-wallpapers-dynamic",
 				"powertop",
@@ -74,7 +73,6 @@
 				"sssd-krb5",
 				"sssd-nfs-idmap",
 				"starship",
-				"stress-ng",
 				"tailscale",
 				"tmux",
 				"topgrade",
@@ -194,7 +192,6 @@
 				"docker-buildx-plugin",
 				"docker-ce",
 				"docker-ce-cli",
-				"monaspace-nerd-fonts",
 				"docker-compose-plugin"
 			]
 		},
@@ -206,8 +203,8 @@
 	"42": {
 		"include": {
 			"all": [
-        "google-noto-fonts-all",
-        "uupd"
+        			"google-noto-fonts-all",
+        			"uupd"
       ],
 			"dx": []
 		},
