@@ -104,6 +104,7 @@
 				"cockpit-storaged",
 				"cockpit-system",
 				"code",
+				"containerd.io",
 				"dbus-x11",
 				"edk2-ovmf",
 				"flatpak-builder",
@@ -188,7 +189,6 @@
 				"google-noto-fonts-all"
 			],
 			"dx":[
-				"containerd.io",
 				"docker-buildx-plugin",
 				"docker-ce",
 				"docker-ce-cli",
@@ -203,9 +203,9 @@
 	"42": {
 		"include": {
 			"all": [
-        			"google-noto-fonts-all",
-        			"uupd"
-      ],
+        		"google-noto-fonts-all",
+        		"uupd"
+      		],
 			"dx": []
 		},
 		"exclude": {
