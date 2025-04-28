@@ -165,6 +165,7 @@
 			"all": [
 				"firefox",
 				"firefox-langpacks",
+				"kcharselect",
 				"krfb",
 				"krfb-libs",
 				"plasma-welcome-fedora",
