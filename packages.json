@@ -83,6 +83,7 @@
 				"ublue-motd",
 				"uld",
 				"usbmuxd",
+				"uupd",
 				"wireguard-tools",
 				"wl-clipboard",
 				"xprop",
@@ -192,7 +193,6 @@
 		"include": {
 			"all": [
 				"google-noto-fonts-all",
-				"uupd",
 				"fw-fanctrl"
       		],
 			"dx": []
