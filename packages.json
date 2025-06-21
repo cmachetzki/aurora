@@ -14,12 +14,6 @@
 				"ddcutil",
 				"evtest",
 				"fastfetch",
-				"fcitx5-chinese-addons",
-				"fcitx5-hangul",
-				"fcitx5-libthai",
-				"fcitx5-mozc",
-				"fcitx5-sayura",
-				"fcitx5-unikey",
 				"firacode-nerd-fonts",
 				"fish",
 				"foo2zjs",
@@ -134,7 +128,6 @@
 				"osbuild-selinux",
 				"p7zip",
 				"p7zip-plugins",
-				"plasma-firewall",
 				"podman-bootc",
 				"podman-compose",
 				"podman-machine",
@@ -173,26 +166,14 @@
 				"fedora-chromium-config-kde",
 				"firefox",
 				"firefox-langpacks",
+				"firewall-config",
 				"kcharselect",
 				"krfb",
 				"krfb-libs",
+				"plasma-discover-kns",
 				"plasma-welcome-fedora",
 				"podman-docker"
 			],
-			"dx": []
-		}
-	},
-	"41": {
-		"include": {
-			"all": [
-				"epson-inkjet-printer-escpr",
-				"epson-inkjet-printer-escpr2",
-				"google-noto-fonts-all"
-			],
-			"dx":[]
-		},
-		"exclude": {
-			"all": [],
 			"dx": []
 		}
 	},
@@ -201,6 +182,17 @@
 			"all": [
 				"google-noto-fonts-all",
 				"fw-fanctrl"
+      		],
+			"dx": []
+		},
+		"exclude": {
+			"all": [],
+			"dx": []
+		}
+	},
+	"43": {
+		"include": {
+			"all": [
       		],
 			"dx": []
 		},
